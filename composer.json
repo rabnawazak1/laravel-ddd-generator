@@ -17,13 +17,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Rabnawazak1\\DddGenerator\\": "src/"
+            "rabnawazak1\\DddGenerator\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Rabnawazak1\\DddGenerator\\DddGeneratorServiceProvider"
+                "rabnawazak1\\DddGenerator\\DddGeneratorServiceProvider"
             ]
         }
     },
