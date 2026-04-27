@@ -23,7 +23,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "RabnawazAk1\\DddGenerator\\DddGeneratorServiceProvider"
+                "Rabnawazak1\\DddGenerator\\DddGeneratorServiceProvider"
             ]
         }
     },
