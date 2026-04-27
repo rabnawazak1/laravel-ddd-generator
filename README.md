@@ -54,8 +54,8 @@ Every file is generated with a namespace-correct stub and `TODO` markers to guid
 
 | Dependency | Version |
 |---|---|
-| PHP | ^8.1 |
-| Laravel | 10.x / 11.x / 12.x |
+| PHP | ^8.5 |
+| Laravel | 10.x / 11.x / 12.x / 13.x |
 
 ---
 
