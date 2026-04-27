@@ -1,6 +1,6 @@
 <?php
 
-namespace rabnawazak1\DddGenerator\Commands; // <-- change this
+namespace Rabnawazak1\DddGenerator\Commands; // <-- change this
 
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\File;
