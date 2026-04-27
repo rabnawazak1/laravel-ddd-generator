@@ -1,0 +1,32 @@
+{
+    "name": "rabnawazak1/laravel-ddd-generator",
+    "description": "Artisan command to scaffold DDD domain modules in Laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rabnawaz Ak1",
+            "email": "rabnawazabdulkhaliq@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.1",
+        "illuminate/support": "^10.0|^11.0|^12.0",
+        "illuminate/console": "^10.0|^11.0|^12.0",
+        "illuminate/filesystem": "^10.0|^11.0|^12.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "RabnawazAk1\\DddGenerator\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "RabnawazAk1\\DddGenerator\\DddGeneratorServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
