@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "RabnawazAk1\\DddGenerator\\": "src/"
+            "Rabnawazak1\\DddGenerator\\": "src/"
         }
     },
     "extra": {

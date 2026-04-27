@@ -1,9 +1,9 @@
 <?php
 
-namespace RabnawazAk1\DddGenerator;
+namespace Rabnawazak1\DddGenerator;
 
 use Illuminate\Support\ServiceProvider;
-use RabnawazAk1\DddGenerator\Commands\MakeDomainModule;
+use Rabnawazak1\DddGenerator\Commands\MakeDomainModule;
 
 class DddGeneratorServiceProvider extends ServiceProvider
 {
